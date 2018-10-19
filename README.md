@@ -14,15 +14,21 @@ If you think any information is wrong or missing, please create an issue inside 
 **Backend**
 - [Django](https://www.djangoproject.com/)
 - [hapi.js](https://hapijs.com/)
+- [Rex](https://github.com/goanywhere/rex)
 
 
 **Coding Standard**
+- [Prettier](https://github.com/prettier/prettier)
 - [Standard JS](https://standardjs.com/)
 
 
 **Configuration**
 - [Node Convict](https://github.com/mozilla/node-convict)
 - [DotEnv](https://www.npmjs.com/package/dotenv)
+
+
+**Communication**
+- [GRPC](https://grpc.io/)
 
 
 **DevOps**
